@@ -7,7 +7,7 @@ public class welcome {
     
     System.out.println();
     
-    System.out.println("ll");
+    
 
 }
 }
