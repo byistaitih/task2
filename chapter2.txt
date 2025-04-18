@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Git finally decided to leave Init behind and explore something bigger.
+=======
+Git after much contemplation decided to leave his home to init to explore the vast world 
+of version .
+>>>>>>> conflict
